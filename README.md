@@ -2,7 +2,7 @@
 
 
 
-Deployed at: http://jpa01-stevechew1.dokku-10.cs.ucsb.edu
+Deployed at: https://jpa01-stevechew1.dokku-10.cs.ucsb.edu
 
 
 # About this repo
